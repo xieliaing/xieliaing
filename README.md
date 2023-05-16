@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xieliaing
-- 👀 I’m interested in Ads Biz Tech, Marketplace, Econometrics, Data Science, Deep Learning, Machine Learning
+- 👀 I’m interested in Marketplace, Econometrics, Data Science,  Ads Biz Tech, Deep Learning, Machine Learning
 - 🌱 I’m currently working in Pay Per Click ads business
 - 💞️ I’m looking to overlanding beautiful places
 - 📫 contact me at here
