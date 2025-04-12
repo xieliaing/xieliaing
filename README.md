@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xieliaing
-- 👀 I’m interested in Marketplace, Machine Learning, Search Engine for eCommerce, Ads Biz Tech
-- 🌱 I’m currently working in Product Mapping & Pricing in eCommerce
+- 👀 I'm interested in Marketplace Modeling, AI/ML, Product/eCommerce Search, Ads Biz Tech
+- 🌱 I’m currently working in Product Mapping, Pricing and Retail AI application in eCommerce
 - 💞️ I’m looking to overlanding beautiful places
-- 📫 contact me at here
+- 📫 contact me here or at xie1978 at gmail dot com
 
 <!---
 xieliaing/xieliaing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
